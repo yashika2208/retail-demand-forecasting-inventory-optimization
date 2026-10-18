@@ -1,4 +1,4 @@
-# Advanced Retail Demand Forecasting and Inventory Optimization
+# Retail Demand Forecasting and Inventory Optimization
 
 ## 1. Project Overview
 This project uses time-series analysis and machine learning
