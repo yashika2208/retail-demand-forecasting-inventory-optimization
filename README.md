@@ -72,3 +72,5 @@ is needed for operational recommendations.
 The project demonstrates how time-series forecasting and
 machine learning can support retail demand prediction and
 inventory planning.
+Author
+Yashika
